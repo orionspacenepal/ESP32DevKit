@@ -26,6 +26,7 @@ Development Board for ESP32
 - [ ] Replace the pins: 6, 7, 9, 10, and 11
 - [ ] Electrolytic capacitor to input volatage 
 - [ ] Remove the use of buttons for flashing
+- [ ] Add all communication protocols
 
 #### Some notes
 1. Using the pins that doesnot functions as GPIO output (like 6, 7, 9, 10, and 11) might result in disfunction of available pins too.
